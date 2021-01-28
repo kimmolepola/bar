@@ -1,3 +1,3 @@
 # Bar
 
-School assignment using PHP and PostgreSQL
+School assignment from 2015 using PHP and PostgreSQL
